@@ -1,4 +1,4 @@
-# Jan Kowalski
+# JA 
 
 ## O mnie
 
