@@ -1,0 +1,8 @@
+Title,Section,Automation Type,Estimate,Preconditions,Priority,Steps (Step),Steps (Expected Result),Type
+MrBuggy3_walidacja_sprawdzenie uruchomienia  aplikacji ,Instalacja,None,30s,Użytkownik posiada system operacyjny Windows 11,Critical,,Aplikacja działa poprawnie,
+,,,,,,,,
+MrBuggy3_walidacja_sprawdzenie liczby zadań w aplikacji,Panel startowy,None,30s,Użytkownik ma uruchomioną aplikację.,Critical,,Minimum 15 zadań,Functional
+MrBuggy3_walidacja_sprawdzenie uruchomienia aplikacji bez logowania,Logowanie,None,30s,Użytkownik ma uruchomioną aplikację.,Critical,,Otwiera się bez logowania.,Functional
+MrBuggy3_walidacja_sprawdzenie możliwości rejestracji,Rejestracja,None,30s,Użytkownik ma uruchomioną aplikację.,Critical,,Otwiera się formularz rejestracji,Functional
+,,,,,,,,
+"MrBuggy3_walidacja_sprawdzenie procesu rejestracji, poprawna weryfikacja",Rejestracja,None,45s,,High,,,
